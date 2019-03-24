@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "586552684228",
+    "firebase_url": "https://loginandcheckgrade.firebaseio.com",
+    "project_id": "loginandcheckgrade",
+    "storage_bucket": "loginandcheckgrade.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:586552684228:android:946426bbdb578636",
+        "android_client_info": {
+          "package_name": "com.brianku.loginandcheckgrade"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "586552684228-3r46m3q7s5sjqhd57blmbiujfblf0od9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.brianku.loginandcheckgrade",
+            "certificate_hash": "ba1428e26d37c60fc712f692623c40d4857cf183"
+          }
+        },
+        {
+          "client_id": "586552684228-0v1813bre0tud9g1jsi2vtg1ehudqocm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBByC4idPpLEf7PuLm9koW3wVkS5x-1Vks"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "586552684228-0v1813bre0tud9g1jsi2vtg1ehudqocm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
